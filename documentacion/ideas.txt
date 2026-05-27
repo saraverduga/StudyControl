@@ -1,0 +1,14 @@
+FUNCIONES PRINCIPALES
+- Registrar tareas
+- Mostrar tareas
+- Organizar actividades estudiantiles
+
+VENTAJAS
+- Fácil de usar
+- Ayuda a organizar tareas
+- Interfaz sencilla
+
+MEJORAS FUTURAS
+- Interfaz gráfica
+- Base de datos
+- Sistema de recordatorios
